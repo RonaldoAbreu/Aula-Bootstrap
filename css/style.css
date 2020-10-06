@@ -1,0 +1,38 @@
+body {
+    font: 'Arial ';
+}
+
+.navbar {
+    background-color: #1A8699;
+}
+
+.quemsomos {
+    background-color: white;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background: #1A8699;
+}
+
+.servicos-mobile {
+    font-style: italic;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.servicos-web {
+    font-style: italic;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.bg-footer {
+    background-color: black;
+    padding-top: 15px;
+    color: gray;
+}
